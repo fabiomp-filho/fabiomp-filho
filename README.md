@@ -11,4 +11,5 @@
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabiomp-filho) 
 
 - AWS Certified Cloud Practicioner
+  
 [![](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/d28bded7-b88e-41e4-82ae-1987de563662/public_url)
