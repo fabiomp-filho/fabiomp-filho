@@ -2,9 +2,8 @@
 
 **About me**    
 
-- 🏢 Programmer: Frontend Developer with React.js
+- 🏢 Programmer: Full-stack Developer with React.js and Java Spring Boot
 - 🏫 I'm currently studying analysis and systems development in Uniasselvi-CE/Brazil
-- 📝 Also currently studying to become a Backend Developer in Spring Boot Java.
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabio.filho0820@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fábiomartinspf/)
