@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/fabiomp-filho"><b> I'm Fábio <b></a></h1>  
+<h1 align="center"><a href="https://github.com/fabiomp-filho"><b> I'm Fábio Filho<b></a></h1>  
 
 **About me**    
 
